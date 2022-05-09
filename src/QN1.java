@@ -1,3 +1,4 @@
+package src;
 public class QN1 {
     static int Center(int arr[]){
          

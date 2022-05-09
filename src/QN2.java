@@ -1,3 +1,4 @@
+package src;
 public class QN2 {
     public static int f(int[] a) {
         int x = 0;

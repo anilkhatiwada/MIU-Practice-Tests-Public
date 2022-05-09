@@ -1,3 +1,4 @@
+package src;
 public class QN4 {
     public static int f(int n) {
         int reverse = 0, reminder = 0;
