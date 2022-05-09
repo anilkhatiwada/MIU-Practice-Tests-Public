@@ -1,4 +1,3 @@
-package src;
 public class QN5 {
     public static int[] append(int a, int[] arr) {
         int newArrLength = arr.length + 1;

@@ -1,4 +1,3 @@
-package src;
 public class QN3 {
     public static char[] f(char[] a, int start, int len) {
         if (len > a.length) {
